@@ -13,7 +13,7 @@
 	images are stored in cloud, in containers registries, like DockerHub or Amazon ECR
 
 ## Task definitions
-- text file that describes one or more containers that form your application (10 max)
+- text file that describes one or more containers that form your application
 - specify parameters like operational system, ports to open or data volumes
 
 ## Task
